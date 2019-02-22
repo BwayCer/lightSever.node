@@ -1,0 +1,22 @@
+{
+  "name": "nodelightsever.node",
+  "version": "1.0.0",
+  "description": "節點搭建出的文本等級伺服器。",
+  "main": "lib/main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BwayCer/nodeLightSever.node.git"
+  },
+  "author": "張本微 <bwaycer@gmail.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/BwayCer/nodeLightSever.node/issues"
+  },
+  "homepage": "https://github.com/BwayCer/nodeLightSever.node#readme"
+}
