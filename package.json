@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/BwayCer/nodeLightSever.node/issues"
   },
-  "homepage": "https://github.com/BwayCer/nodeLightSever.node#readme"
+  "homepage": "https://github.com/BwayCer/nodeLightSever.node#readme",
+  "devDependencies": {
+    "sass": "^1.17.3"
+  }
 }
